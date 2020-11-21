@@ -1,0 +1,9 @@
+h2{
+    color: red;
+    text-align: center;
+    padding: 5rem;
+}
+.col-lg-6{
+    border: 1px solid black;
+    padding: 2rem;
+}
